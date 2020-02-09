@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 - HackKU 2020 Smart Cities track submission
 - This project was ported to github from Unity collaborations
 - Team responsibilities:
@@ -8,7 +8,7 @@
   - [mooncollin](https://github.com/mooncollin): visuals, city design, people/car AI
 - created in Unity 2019.3.0f6
 
-#Screenshots
+# Screenshots
 ![Main Menu](/screenshots/main_menu.PNG)
 ![Intro Screen](/screenshots/intro.PNG)
 ![City View](/screenshots/city_view.PNG)
